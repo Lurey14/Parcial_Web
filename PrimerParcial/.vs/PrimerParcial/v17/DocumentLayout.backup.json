@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Univalle\\Web_III\\Primer_Parcial\\Parcial_Web\\PrimerParcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67FE0F2C-07BC-4343-AF1E-BCBD8F4C4AAC}|PrimerParcial.csproj|d:\\univalle\\web_iii\\primer_parcial\\parcial_web\\primerparcial\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FE0F2C-07BC-4343-AF1E-BCBD8F4C4AAC}|PrimerParcial.csproj|solutionrelative:models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FE0F2C-07BC-4343-AF1E-BCBD8F4C4AAC}|PrimerParcial.csproj|d:\\univalle\\web_iii\\primer_parcial\\parcial_web\\primerparcial\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FE0F2C-07BC-4343-AF1E-BCBD8F4C4AAC}|PrimerParcial.csproj|solutionrelative:models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FE0F2C-07BC-4343-AF1E-BCBD8F4C4AAC}|PrimerParcial.csproj|d:\\univalle\\web_iii\\primer_parcial\\parcial_web\\primerparcial\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FE0F2C-07BC-4343-AF1E-BCBD8F4C4AAC}|PrimerParcial.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FE0F2C-07BC-4343-AF1E-BCBD8F4C4AAC}|PrimerParcial.csproj|d:\\univalle\\web_iii\\primer_parcial\\parcial_web\\primerparcial\\data\\recetasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FE0F2C-07BC-4343-AF1E-BCBD8F4C4AAC}|PrimerParcial.csproj|solutionrelative:data\\recetasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FE0F2C-07BC-4343-AF1E-BCBD8F4C4AAC}|PrimerParcial.csproj|d:\\univalle\\web_iii\\primer_parcial\\parcial_web\\primerparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FE0F2C-07BC-4343-AF1E-BCBD8F4C4AAC}|PrimerParcial.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "D:\\Univalle\\Web_III\\Primer_Parcial\\Parcial_Web\\PrimerParcial\\Models\\Recipe.cs",
+              "RelativeDocumentMoniker": "Models\\Recipe.cs",
+              "ToolTip": "D:\\Univalle\\Web_III\\Primer_Parcial\\Parcial_Web\\PrimerParcial\\Models\\Recipe.cs",
+              "RelativeToolTip": "Models\\Recipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T23:22:05.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Univalle\\Web_III\\Primer_Parcial\\Parcial_Web\\PrimerParcial\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\Univalle\\Web_III\\Primer_Parcial\\Parcial_Web\\PrimerParcial\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIA9wBIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T23:18:42.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecetasDBContext.cs",
+              "DocumentMoniker": "D:\\Univalle\\Web_III\\Primer_Parcial\\Parcial_Web\\PrimerParcial\\Data\\RecetasDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\RecetasDBContext.cs",
+              "ToolTip": "D:\\Univalle\\Web_III\\Primer_Parcial\\Parcial_Web\\PrimerParcial\\Data\\RecetasDBContext.cs",
+              "RelativeToolTip": "Data\\RecetasDBContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAD4vx8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T23:18:33.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Univalle\\Web_III\\Primer_Parcial\\Parcial_Web\\PrimerParcial\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Univalle\\Web_III\\Primer_Parcial\\Parcial_Web\\PrimerParcial\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T23:16:08.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "D:\\Univalle\\Web_III\\Primer_Parcial\\Parcial_Web\\PrimerParcial\\Models\\Ingredient.cs",
+              "RelativeDocumentMoniker": "Models\\Ingredient.cs",
+              "ToolTip": "D:\\Univalle\\Web_III\\Primer_Parcial\\Parcial_Web\\PrimerParcial\\Models\\Ingredient.cs",
+              "RelativeToolTip": "Models\\Ingredient.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIA9wBUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T23:13:16.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
