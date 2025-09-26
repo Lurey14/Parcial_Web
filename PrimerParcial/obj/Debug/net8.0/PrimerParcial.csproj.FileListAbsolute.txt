@@ -158,7 +158,6 @@ D:\Univalle\Web_III\Primer_Parcial\Parcial_Web\PrimerParcial\obj\Debug\net8.0\st
 D:\Univalle\Web_III\Primer_Parcial\Parcial_Web\PrimerParcial\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\Univalle\Web_III\Primer_Parcial\Parcial_Web\PrimerParcial\obj\Debug\net8.0\staticwebassets.development.json
 D:\Univalle\Web_III\Primer_Parcial\Parcial_Web\PrimerParcial\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\Univalle\Web_III\Primer_Parcial\Parcial_Web\PrimerParcial\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Univalle\Web_III\Primer_Parcial\Parcial_Web\PrimerParcial\obj\Debug\net8.0\PrimerPa.0611E971.Up2Date
 D:\Univalle\Web_III\Primer_Parcial\Parcial_Web\PrimerParcial\obj\Debug\net8.0\PrimerParcial.dll
 D:\Univalle\Web_III\Primer_Parcial\Parcial_Web\PrimerParcial\obj\Debug\net8.0\refint\PrimerParcial.dll
@@ -286,3 +285,4 @@ D:\Univalle\Web_III\Primer_Parcial\Parcial_Web\PrimerParcial\bin\Debug\net8.0\ru
 D:\Univalle\Web_III\Primer_Parcial\Parcial_Web\PrimerParcial\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\Univalle\Web_III\Primer_Parcial\Parcial_Web\PrimerParcial\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\Univalle\Web_III\Primer_Parcial\Parcial_Web\PrimerParcial\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Univalle\Web_III\Primer_Parcial\Parcial_Web\PrimerParcial\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

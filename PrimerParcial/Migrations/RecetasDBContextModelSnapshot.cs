@@ -126,7 +126,7 @@ namespace PrimerParcial.Migrations
                     b.HasOne("PrimerParcial.Models.Category", "Category")
                         .WithMany("Recipes")
                         .HasForeignKey("CategoryId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
                     b.Navigation("Category");

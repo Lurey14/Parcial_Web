@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Univalle\\Web_III\\Primer_Parcial\\Parcial_Web\\PrimerParcial\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{67FE0F2C-07BC-4343-AF1E-BCBD8F4C4AAC}|PrimerParcial.csproj|d:\\univalle\\web_iii\\primer_parcial\\parcial_web\\primerparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FE0F2C-07BC-4343-AF1E-BCBD8F4C4AAC}|PrimerParcial.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FE0F2C-07BC-4343-AF1E-BCBD8F4C4AAC}|PrimerParcial.csproj|d:\\univalle\\web_iii\\primer_parcial\\parcial_web\\primerparcial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67FE0F2C-07BC-4343-AF1E-BCBD8F4C4AAC}|PrimerParcial.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{67FE0F2C-07BC-4343-AF1E-BCBD8F4C4AAC}|PrimerParcial.csproj|d:\\univalle\\web_iii\\primer_parcial\\parcial_web\\primerparcial\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{67FE0F2C-07BC-4343-AF1E-BCBD8F4C4AAC}|PrimerParcial.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,20 +19,16 @@
       "RelativeMoniker": "D:0:0:{67FE0F2C-07BC-4343-AF1E-BCBD8F4C4AAC}|PrimerParcial.csproj|solutionrelative:controllers\\recipescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{67FE0F2C-07BC-4343-AF1E-BCBD8F4C4AAC}|PrimerParcial.csproj|d:\\univalle\\web_iii\\primer_parcial\\parcial_web\\primerparcial\\data\\recetasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FE0F2C-07BC-4343-AF1E-BCBD8F4C4AAC}|PrimerParcial.csproj|solutionrelative:data\\recetasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{67FE0F2C-07BC-4343-AF1E-BCBD8F4C4AAC}|PrimerParcial.csproj|d:\\univalle\\web_iii\\primer_parcial\\parcial_web\\primerparcial\\controllers\\ingredientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67FE0F2C-07BC-4343-AF1E-BCBD8F4C4AAC}|PrimerParcial.csproj|solutionrelative:controllers\\ingredientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67FE0F2C-07BC-4343-AF1E-BCBD8F4C4AAC}|PrimerParcial.csproj|d:\\univalle\\web_iii\\primer_parcial\\parcial_web\\primerparcial\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67FE0F2C-07BC-4343-AF1E-BCBD8F4C4AAC}|PrimerParcial.csproj|solutionrelative:models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67FE0F2C-07BC-4343-AF1E-BCBD8F4C4AAC}|PrimerParcial.csproj|d:\\univalle\\web_iii\\primer_parcial\\parcial_web\\primerparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67FE0F2C-07BC-4343-AF1E-BCBD8F4C4AAC}|PrimerParcial.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67FE0F2C-07BC-4343-AF1E-BCBD8F4C4AAC}|PrimerParcial.csproj|d:\\univalle\\web_iii\\primer_parcial\\parcial_web\\primerparcial\\data\\recetasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67FE0F2C-07BC-4343-AF1E-BCBD8F4C4AAC}|PrimerParcial.csproj|solutionrelative:data\\recetasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67FE0F2C-07BC-4343-AF1E-BCBD8F4C4AAC}|PrimerParcial.csproj|d:\\univalle\\web_iii\\primer_parcial\\parcial_web\\primerparcial\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +42,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Univalle\\Web_III\\Primer_Parcial\\Parcial_Web\\PrimerParcial\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Univalle\\Web_III\\Primer_Parcial\\Parcial_Web\\PrimerParcial\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-26T00:12:07.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IngredientsController.cs",
+              "DocumentMoniker": "D:\\Univalle\\Web_III\\Primer_Parcial\\Parcial_Web\\PrimerParcial\\Controllers\\IngredientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\IngredientsController.cs",
+              "ToolTip": "D:\\Univalle\\Web_III\\Primer_Parcial\\Parcial_Web\\PrimerParcial\\Controllers\\IngredientsController.cs",
+              "RelativeToolTip": "Controllers\\IngredientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T23:51:17.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Univalle\\Web_III\\Primer_Parcial\\Parcial_Web\\PrimerParcial\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Univalle\\Web_III\\Primer_Parcial\\Parcial_Web\\PrimerParcial\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T23:26:23.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Univalle\\Web_III\\Primer_Parcial\\Parcial_Web\\PrimerParcial\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Univalle\\Web_III\\Primer_Parcial\\Parcial_Web\\PrimerParcial\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T23:16:08.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "RecipesController.cs",
               "DocumentMoniker": "D:\\Univalle\\Web_III\\Primer_Parcial\\Parcial_Web\\PrimerParcial\\Controllers\\RecipesController.cs",
               "RelativeDocumentMoniker": "Controllers\\RecipesController.cs",
@@ -55,33 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IngredientsController.cs",
-              "DocumentMoniker": "D:\\Univalle\\Web_III\\Primer_Parcial\\Parcial_Web\\PrimerParcial\\Controllers\\IngredientsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\IngredientsController.cs",
-              "ToolTip": "D:\\Univalle\\Web_III\\Primer_Parcial\\Parcial_Web\\PrimerParcial\\Controllers\\IngredientsController.cs",
-              "RelativeToolTip": "Controllers\\IngredientsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T23:51:17.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Univalle\\Web_III\\Primer_Parcial\\Parcial_Web\\PrimerParcial\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Univalle\\Web_III\\Primer_Parcial\\Parcial_Web\\PrimerParcial\\Views\\Home\\Index.cshtml*",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-25T23:26:23.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Recipe.cs",
               "DocumentMoniker": "D:\\Univalle\\Web_III\\Primer_Parcial\\Parcial_Web\\PrimerParcial\\Models\\Recipe.cs",
               "RelativeDocumentMoniker": "Models\\Recipe.cs",
@@ -89,12 +118,11 @@
               "RelativeToolTip": "Models\\Recipe.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T23:22:05.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T23:22:05.789Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\Univalle\\Web_III\\Primer_Parcial\\Parcial_Web\\PrimerParcial\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
@@ -102,33 +130,19 @@
               "RelativeToolTip": "Models\\Category.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAApwBIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T23:18:42.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T23:18:42.551Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "RecetasDBContext.cs",
               "DocumentMoniker": "D:\\Univalle\\Web_III\\Primer_Parcial\\Parcial_Web\\PrimerParcial\\Data\\RecetasDBContext.cs",
               "RelativeDocumentMoniker": "Data\\RecetasDBContext.cs",
               "ToolTip": "D:\\Univalle\\Web_III\\Primer_Parcial\\Parcial_Web\\PrimerParcial\\Data\\RecetasDBContext.cs",
               "RelativeToolTip": "Data\\RecetasDBContext.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAD4vx8AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T23:18:33.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Univalle\\Web_III\\Primer_Parcial\\Parcial_Web\\PrimerParcial\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Univalle\\Web_III\\Primer_Parcial\\Parcial_Web\\PrimerParcial\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T23:16:08.477Z",
               "EditorCaption": ""
             }
           ]

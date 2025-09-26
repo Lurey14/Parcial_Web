@@ -11,28 +11,27 @@ namespace PrimerParcial.Data
         {
         }
 
-        // DbSets (Colecciones) que mapean a las tablas de la base de datos
+        // DbSets (colecciones) que representan las tablas de la base de datos
+        public DbSet<Recipe> Recipes { get; set; } = null!;
+        public DbSet<Ingredient> Ingredients { get; set; } = null!;
+        public DbSet<Category> Categories { get; set; } = null!;
 
-        public DbSet<Recipe> Recipes { get; set; }
-        public DbSet<Ingredient> Ingredients { get; set; }
-        public DbSet<Category> Categories { get; set; }
-
-        // Opcional: Configuración de la relación uno a muchos
-        // Esto a menudo se puede omitir si las convenciones de EF Core se cumplen,
-        // pero es buena práctica para claridad, especialmente en relaciones complejas.
+        // Configuración explícita de las relaciones (opcional, pero recomendable para claridad)
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            // Configura la relación uno a muchos entre Recipe e Ingredient
+            // Relación uno a muchos entre Recipe e Ingredient
             modelBuilder.Entity<Ingredient>()
-                .HasOne(i => i.Recipe) // Un ingrediente tiene una receta
-                .WithMany(r => r.Ingredients) // Una receta tiene muchos ingredientes
-                .HasForeignKey(i => i.RecipeId); // Usa RecipeId como clave foránea
+                .HasOne(i => i.Recipe)           // Un ingrediente pertenece a una receta
+                .WithMany(r => r.Ingredients)    // Una receta tiene muchos ingredientes
+                .HasForeignKey(i => i.RecipeId)  // Clave foránea
+                .OnDelete(DeleteBehavior.Cascade); // Si se elimina una receta, se eliminan sus ingredientes
 
-            // Configura la relación uno a muchos entre Category y Recipe
+            // Relación uno a muchos entre Category y Recipe
             modelBuilder.Entity<Recipe>()
-                .HasOne(r => r.Category) // Una receta tiene una categoría
-                .WithMany(c => c.Recipes) // Una categoría tiene muchas recetas
-                .HasForeignKey(r => r.CategoryId); // Usa CategoryId como clave foránea
+                .HasOne(r => r.Category)          // Una receta pertenece a una categoría
+                .WithMany(c => c.Recipes)         // Una categoría tiene muchas recetas
+                .HasForeignKey(r => r.CategoryId) // Clave foránea
+                .OnDelete(DeleteBehavior.Restrict); // No permitir borrar categoría si tiene recetas
 
             base.OnModelCreating(modelBuilder);
         }

@@ -12,8 +12,8 @@ using PrimerParcial.Data;
 namespace PrimerParcial.Migrations
 {
     [DbContext(typeof(RecetasDBContext))]
-    [Migration("20250925225153_exam")]
-    partial class exam
+    [Migration("20250926003621_InitialCreate")]
+    partial class InitialCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -129,7 +129,7 @@ namespace PrimerParcial.Migrations
                     b.HasOne("PrimerParcial.Models.Category", "Category")
                         .WithMany("Recipes")
                         .HasForeignKey("CategoryId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
                     b.Navigation("Category");
