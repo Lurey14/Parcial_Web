@@ -11,6 +11,7 @@ namespace PrimerParcial.Models
         [StringLength(50)]
         public string Name { get; set; } // Ejemplo: "Postres", "Platos Principales"
 
+        [Required]
         public string Description { get; set; }
 
         // --- Relaciones de Entity Framework Core ---

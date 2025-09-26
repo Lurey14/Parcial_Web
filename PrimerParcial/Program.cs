@@ -5,7 +5,6 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-// CORREGIDO: Usa el nombre correcto de la cadena de conexión
 builder.Services.AddDbContext<PrimerParcial.Data.RecetasDBContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
