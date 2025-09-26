@@ -3,6 +3,22 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-4">Ingresar a:</h1>
+    <div style="margin-top:40px;">
+        <div class="text-center mt-3">
+            <a asp-controller="Recipes" asp-action="Index" class="btn" style="background-color: #A580A6; color: black;">
+                Recetas
+            </a>
+        </div>
+        <div class="text-center mt-3">
+            <a asp-controller="Ingredients" asp-action="Index" class="btn" style="background-color: #A580A6; color: black;">
+                Ingredientes
+            </a>
+        </div>
+        <div class="text-center mt-3">
+            <a asp-controller="Categories" asp-action="Index" class="btn" style="background-color: #A580A6; color: black;">
+                Categorias
+            </a>
+        </div>
+    </div>
 </div>

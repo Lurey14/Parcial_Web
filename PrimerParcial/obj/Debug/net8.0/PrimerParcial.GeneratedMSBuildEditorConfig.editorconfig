@@ -28,12 +28,72 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[D:/Univalle/Web_III/Primer_Parcial/Parcial_Web/PrimerParcial/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Univalle/Web_III/Primer_Parcial/Parcial_Web/PrimerParcial/Views/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Univalle/Web_III/Primer_Parcial/Parcial_Web/PrimerParcial/Views/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Univalle/Web_III/Primer_Parcial/Parcial_Web/PrimerParcial/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Univalle/Web_III/Primer_Parcial/Parcial_Web/PrimerParcial/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Univalle/Web_III/Primer_Parcial/Parcial_Web/PrimerParcial/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Univalle/Web_III/Primer_Parcial/Parcial_Web/PrimerParcial/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Univalle/Web_III/Primer_Parcial/Parcial_Web/PrimerParcial/Views/Ingredients/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Univalle/Web_III/Primer_Parcial/Parcial_Web/PrimerParcial/Views/Ingredients/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Univalle/Web_III/Primer_Parcial/Parcial_Web/PrimerParcial/Views/Ingredients/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Univalle/Web_III/Primer_Parcial/Parcial_Web/PrimerParcial/Views/Ingredients/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Univalle/Web_III/Primer_Parcial/Parcial_Web/PrimerParcial/Views/Ingredients/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Univalle/Web_III/Primer_Parcial/Parcial_Web/PrimerParcial/Views/Recipes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjaXBlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Univalle/Web_III/Primer_Parcial/Parcial_Web/PrimerParcial/Views/Recipes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjaXBlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Univalle/Web_III/Primer_Parcial/Parcial_Web/PrimerParcial/Views/Recipes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjaXBlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Univalle/Web_III/Primer_Parcial/Parcial_Web/PrimerParcial/Views/Recipes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjaXBlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Univalle/Web_III/Primer_Parcial/Parcial_Web/PrimerParcial/Views/Recipes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjaXBlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Univalle/Web_III/Primer_Parcial/Parcial_Web/PrimerParcial/Views/Shared/Error.cshtml]
